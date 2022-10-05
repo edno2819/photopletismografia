@@ -1,0 +1,2 @@
+1 - Ter a opção de carregar o CSV
+2 - plotar o OCG e PGG
