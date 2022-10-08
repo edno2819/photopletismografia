@@ -1,4 +1,0 @@
-{
-    "python.pythonPath": "c:\\Users\\karin\\Anaconda3\\envs\\tcc\\python.exe",
-    "python.linting.pylintArgs": [ "--ignored-modules=cv2"]
-}

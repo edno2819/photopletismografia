@@ -1,1 +1,5 @@
 /venv
+/.ipynb_checkpoints
+saves/*
+files/*.mp4
+files/*.csv
