@@ -1,5 +1,6 @@
 /venv
 /.ipynb_checkpoints
-saves/*
+saves/*.png
 files/*.mp4
 files/*.csv
+fazer.txt
